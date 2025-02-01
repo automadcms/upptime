@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/automad.org.ico",
     "slug": "automad-documentation",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 1006,
-    "timeDay": 817,
-    "timeWeek": 1006,
-    "timeMonth": 1006,
-    "timeYear": 1006,
-    "dailyMinutesDown": {
-      "2025-01-30": 5,
-      "2025-01-28": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1016,
+    "timeDay": 1134,
+    "timeWeek": 1016,
+    "timeMonth": 1016,
+    "timeYear": 1016,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Automad Live Demo",
@@ -26,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/try.automad.org.ico",
     "slug": "automad-live-demo",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1163,
-    "timeDay": 1080,
-    "timeWeek": 1163,
-    "timeMonth": 1163,
-    "timeYear": 1163,
-    "dailyMinutesDown": {
-      "2025-01-30": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1169,
+    "timeDay": 1229,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Automad Packages",
@@ -46,19 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/packages.automad.org.ico",
     "slug": "automad-packages",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 848,
-    "timeDay": 682,
-    "timeWeek": 848,
-    "timeMonth": 848,
-    "timeYear": 848,
-    "dailyMinutesDown": {
-      "2025-01-30": 4,
-      "2025-01-28": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 888,
+    "timeDay": 1368,
+    "timeWeek": 888,
+    "timeMonth": 888,
+    "timeYear": 888,
+    "dailyMinutesDown": {}
   }
 ]
