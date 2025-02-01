@@ -4,18 +4,20 @@
     "url": "https://automad.org",
     "icon": "https://icons.duckduckgo.com/ip3/automad.org.ico",
     "slug": "automad-documentation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1016,
     "timeDay": 1134,
     "timeWeek": 1016,
     "timeMonth": 1016,
     "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-01": 1
+    }
   },
   {
     "name": "Automad Live Demo",
@@ -40,7 +42,7 @@
     "url": "https://packages.automad.org",
     "icon": "https://icons.duckduckgo.com/ip3/packages.automad.org.ico",
     "slug": "automad-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 888,
     "timeMonth": 888,
     "timeYear": 888,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   }
 ]
