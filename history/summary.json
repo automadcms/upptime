@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/automad.org.ico",
     "slug": "automad-documentation",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1005,
-    "timeDay": 1063,
-    "timeWeek": 1005,
-    "timeMonth": 1005,
-    "timeYear": 1005,
-    "dailyMinutesDown": {
-      "2025-02-03": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1023,
+    "timeDay": 1094,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Automad Live Demo",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 882,
-    "timeWeek": 1135,
-    "timeMonth": 1135,
-    "timeYear": 1135,
+    "time": 1159,
+    "timeDay": 1472,
+    "timeWeek": 1159,
+    "timeMonth": 1159,
+    "timeYear": 1159,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/packages.automad.org.ico",
     "slug": "automad-packages",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 863,
-    "timeDay": 728,
-    "timeWeek": 863,
-    "timeMonth": 863,
-    "timeYear": 863,
+    "uptime": "99.72%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 869,
+    "timeDay": 867,
+    "timeWeek": 869,
+    "timeMonth": 869,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-02-03": 30
+      "2025-02-03": 25
     }
   }
 ]
