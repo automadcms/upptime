@@ -1,3 +1,8 @@
+> [!NOTE]  
+> The upptime workflows are disabled due to false positive reports.
+
+---
+
 # [📈 Live Status](https://automadcms.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Automad](https://automad.org), powered by [Upptime](https://github.com/upptime/upptime).
